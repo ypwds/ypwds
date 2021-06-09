@@ -1,21 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://64.media.tumblr.com/268f009f787925fc1fdd96c1eaef63d1/f73992ebf5670849-c1/s1280x1920/ed06fbbd7a92ca7fa32325563226b7f1a00adfcf.gif" width="40%" align="right">
+  <br><br>
+  <samp>
+    Hey!! I'm Ytalo Paulo :wave:
+    <br><br>
+  </samp>
+</p>
 
-**ypwds/ypwds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :mailbox: Contato	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ytalopaulo/)](https://www.linkedin.com/in/ytalopaulo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ytalo.ypw@gmail.com)](mailto:ytalo.ypw@gmail.com)
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-
-  [![ypwds stats](https://github-readme-stats.vercel.app/api?ypwds=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-</details>
