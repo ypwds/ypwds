@@ -2,7 +2,7 @@
   <img src="https://64.media.tumblr.com/268f009f787925fc1fdd96c1eaef63d1/f73992ebf5670849-c1/s1280x1920/ed06fbbd7a92ca7fa32325563226b7f1a00adfcf.gif" width="40%" align="right">
   <br><br>
   <samp>
-    Hey!! I'm Ytalo Paulo :wave:
+    Hey!! I'm Ytalo Paulo e esse é meu jeito ninja de ser!:wave:
     <br><br>
   </samp>
 </p>
